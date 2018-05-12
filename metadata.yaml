@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '36401'
     url: http://www.gutenberg.org/2009/agents/36401
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33426#Reminiscences-of-the-Great-Mutiny-1857-59--13-Including-the-relief-siege-and-capture-of-Luckn_
 gutenberg_issued: '2010-08-13'
 gutenberg_type: Text
 identifiers:
