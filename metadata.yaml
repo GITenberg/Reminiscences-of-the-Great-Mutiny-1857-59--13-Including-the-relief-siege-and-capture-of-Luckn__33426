@@ -1,0 +1,26 @@
+_repo: Reminiscences-of-the-Great-Mutiny-1857-59--13-Including-the-relief-siege-and-capture-of-Luckn__33426
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Forbes-Mitchell, William
+    gutenberg_agent_id: '36401'
+    url: http://www.gutenberg.org/2009/agents/36401
+description: ''
+gutenberg_issued: '2010-08-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33426'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lucknow (India) -- History -- Siege, 1857 -- Personal narratives'
+- !lcc 'DS'
+- !lcsh 'India -- History -- Sepoy Rebellion, 1857-1858 -- Personal narratives, English'
+title: "Reminiscences of the Great Mutiny 1857-59\r\nIncluding the relief, siege,\
+  \ and capture of Lucknow, and the campaigns in Rohilcund and Oude"
+url: http://www.gutenberg.org/ebooks/33426
